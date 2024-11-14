@@ -1,0 +1,5 @@
+/Users/rylanstevens/programming 2024/lab-8-fountain-of-objects-2-RylanStevens/Lab08/obj/Debug/net8.0/Lab08.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rylanstevens/programming 2024/lab-8-fountain-of-objects-2-RylanStevens/Lab08/obj/Debug/net8.0/Lab08.AssemblyInfoInputs.cache
+/Users/rylanstevens/programming 2024/lab-8-fountain-of-objects-2-RylanStevens/Lab08/obj/Debug/net8.0/Lab08.AssemblyInfo.cs
+/Users/rylanstevens/programming 2024/lab-8-fountain-of-objects-2-RylanStevens/Lab08/obj/Debug/net8.0/Lab08.csproj.CoreCompileInputs.cache
+/Users/rylanstevens/programming 2024/lab-8-fountain-of-objects-2-RylanStevens/Lab08/obj/Debug/net8.0/Lab08.sourcelink.json
